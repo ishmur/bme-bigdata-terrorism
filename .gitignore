@@ -5,6 +5,7 @@
 __pycache__
 
 # Dataset directory
+Data/
 
 # User-specific stuff:
 .idea/**/workspace.xml
